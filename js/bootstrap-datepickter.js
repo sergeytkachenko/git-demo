@@ -395,6 +395,7 @@
 			var parts = date.split(format.separator),
 				date = new Date(),
 				val;
+
 			date.setHours(0);
 			date.setMinutes(0);
 			date.setSeconds(0);

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3d79324-98a3-4a9c-98e7-de374acce4fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap-datepickter.js" afterPath="$PROJECT_DIR$/js/bootstrap-datepickter.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,16 +23,15 @@
     <favorites_list name="sites" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="bootstrap-datepickter.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/bootstrap-datepickter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="394" column="13" lean-forward="false" selection-start-line="394" selection-start-column="13" selection-end-line="394" selection-end-column="13" />
+            <state relative-caret-position="442">
+              <caret line="397" column="0" lean-forward="true" selection-start-line="397" selection-start-column="0" selection-end-line="397" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <marker date="1482670985000" expanded="true" signature="12828:12836" ph="‹" />
-                <marker date="1482670985000" expanded="true" signature="12906:12914" ph="›" />
+                <marker date="1482677793000" expanded="true" signature="12829:12837" ph="‹" />
+                <marker date="1482677793000" expanded="true" signature="12907:12915" ph="›" />
               </folding>
             </state>
           </provider>
@@ -222,18 +218,34 @@
       <workItem from="1482584933659" duration="1342000" />
       <workItem from="1482588370994" duration="2171000" />
       <workItem from="1482670448431" duration="974000" />
-      <workItem from="1482674884564" duration="11000" />
+      <workItem from="1482674884564" duration="251000" />
+      <workItem from="1482675172967" duration="466000" />
     </task>
+    <task id="LOCAL-00001" summary="jshint  example">
+      <created>1482674912721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1482674912721</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added datepickter">
+      <created>1482674994567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1482674994567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4498000" />
+    <option name="totallyTimeSpent" value="5204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-21" width="1920" height="1053" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -257,6 +269,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="jshint  example" />
+    <MESSAGE value="added datepickter" />
+    <option name="LAST_COMMIT_MESSAGE" value="added datepickter" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -267,9 +286,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1482670985000" expanded="true" signature="12828:12836" ph="‹" />
-            <marker date="1482670985000" expanded="true" signature="12906:12914" ph="›" />
+            <marker date="1482677793000" expanded="true" signature="12829:12837" ph="‹" />
+            <marker date="1482677793000" expanded="true" signature="12907:12915" ph="›" />
           </folding>
         </state>
       </provider>
@@ -318,12 +336,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap-datepickter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="394" column="13" lean-forward="false" selection-start-line="394" selection-start-column="13" selection-end-line="394" selection-end-column="13" />
+        <state relative-caret-position="442">
+          <caret line="397" column="0" lean-forward="true" selection-start-line="397" selection-start-column="0" selection-end-line="397" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1482670985000" expanded="true" signature="12828:12836" ph="‹" />
-            <marker date="1482670985000" expanded="true" signature="12906:12914" ph="›" />
+            <marker date="1482677793000" expanded="true" signature="12829:12837" ph="‹" />
+            <marker date="1482677793000" expanded="true" signature="12907:12915" ph="›" />
           </folding>
         </state>
       </provider>

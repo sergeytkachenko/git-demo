@@ -387,9 +387,7 @@
 			var separator = format.match(/[.\/\-\s].*?/),
 				parts = format.split(/\W+/);
 			if (!separator || !parts || parts.length === 0){
-
 				throw new Error("Invalid date format.");
-
 			}
 			return {separator: separator, parts: parts};
 		},
@@ -397,7 +395,6 @@
 			var parts = date.split(format.separator),
 				date = new Date(),
 				val;
-
 			date.setHours(0);
 			date.setMinutes(0);
 			date.setSeconds(0);
